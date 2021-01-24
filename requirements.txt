@@ -1,0 +1,5 @@
+pycaret==2.2.3
+
+Flask==1.1.2
+gevent==21.1.1
+flask-cors==3.0.10

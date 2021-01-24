@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Resources
+*.csv
+
+# Logs
+*.logs
+
+# React
+node_modules/
+
+# Other files
+.idea/
+.DS_STORE

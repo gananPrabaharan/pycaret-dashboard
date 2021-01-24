@@ -1,0 +1,13 @@
+.react-bootstrap-table td {
+    overflow: auto;
+    max-height: 100px !important;
+}
+
+#content {
+    position:absolute;
+    width:100%;
+    left:0px;
+    top:20px;
+    bottom:20px;
+    overflow: hidden;
+}
