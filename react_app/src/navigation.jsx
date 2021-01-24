@@ -15,12 +15,6 @@ const Navigation = () => {
                         <Link to="/import" className="nav-link">Import Dataset</Link>
                     </Nav.Item>
                     <Nav.Item>
-                        <Link to="/explore" className="nav-link">Explore Dataset</Link>
-                    </Nav.Item>
-                    <Nav.Item>
-                        <Link to="/fairness" className="nav-link">Fairness Analysis</Link>
-                    </Nav.Item>
-                    <Nav.Item>
                         <Link to="/model" className="nav-link">Build Models</Link>
                     </Nav.Item>
                 </Nav>
